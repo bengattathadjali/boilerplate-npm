@@ -1,6 +1,6 @@
 {
-	"author": "Hadj Ali Bengatttat",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Hadj Ali Bengattat",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
